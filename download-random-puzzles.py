@@ -39,7 +39,7 @@ saved = 0
 
 for i in range(max_requests):
 	try:
-		r = requests.get(API_URL, headers={'User-Agent': 'Wget/1.25'}, timeout=10)
+		r = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, timeout=10)
 		data = r.json()
 
 		url = data.get('url')
