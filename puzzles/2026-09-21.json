@@ -1,0 +1,8 @@
+{
+	"title": "The Anti-Fork",
+	"url": "https://www.chess.com/daily/2026-09-21",
+	"publish_time": 1789974000,
+	"fen": "r1b1q1kr/ppNnb1pp/5n2/8/3P4/8/PPP2PPP/R1BQKB1R b KQ - 0 10",
+	"pgn": "[Event \"FRG-ch 01st\"]\n[Site \"Bad Pyrmont\"]\n[Date \"1950.??.??\"]\n[Round \"16\"]\n[White \"Lohmann, Heinrich\"]\n[Black \"Teschner, Rudolf\"]\n[Result \"0-1\"]\n[FEN \"r1b1q1kr/ppNnb1pp/5n2/8/3P4/8/PPP2PPP/R1BQKB1R b KQ - 0 10\"]\n\n10... Bb4# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1b1q1kr/ppNnb1pp/5n2/8/3P4/8/PPP2PPP/R1BQKB1R%20b%20KQ%20-%200%2010&size=2"
+}
