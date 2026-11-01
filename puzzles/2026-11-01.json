@@ -1,0 +1,8 @@
+{
+	"title": "Take Your Sweet Time",
+	"url": "https://www.chess.com/daily/2026-11-01",
+	"publish_time": 1793516400,
+	"fen": "8/p5pk/1R2p3/2p3p1/8/2p4P/PN4P1/6K1 b - - 0 33",
+	"pgn": "[White \"Ortueta Esteban, Martin\"]\n[Black \"Sanz Aguado, Jose\"]\n[Result \"0-1\"]\n[ECO \"C00\"]\n[FEN \"8/p5pk/1R2p3/2p3p1/8/2p4P/PN4P1/6K1 b - - 0 33\"]\n\n33... c4 34. Rb4 a5 35. Nxc4 c2 36. Rb3 c1=Q+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/p5pk/1R2p3/2p3p1/8/2p4P/PN4P1/6K1%20b%20-%20-%200%2033&size=2"
+}
