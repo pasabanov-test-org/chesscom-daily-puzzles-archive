@@ -1,0 +1,8 @@
+{
+	"title": "Free Lunch?",
+	"url": "https://www.chess.com/daily/2026-11-14",
+	"publish_time": 1794643200,
+	"fen": "r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1 w kq - 0 1",
+	"pgn": "[Date \"2002.??.??\"]\n[White \"Carlsen, Magnus (a3 + a6 adjustment)\"]\n[Black \"Gulbrandsen, Tor\"]\n[Result \"*\"]\n[FEN \"r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1 w kq - 0 1\"]\n\n1. Qa7 Rxa7 2. Rxc8+ Qd8 3. Rxd8+ Kxd8 4. Nxf7+ Ke7 5. Nxh8 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/1p1nqpp1/p3p2p/3pP1N1/8/P2BQ3/1P3PPP/2R2RK1%20w%20kq%20-%200%201&size=2"
+}
