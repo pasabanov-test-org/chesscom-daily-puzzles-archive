@@ -1,0 +1,8 @@
+{
+	"title": "Decoy, Deflection, Oh My!",
+	"url": "https://www.chess.com/daily/2026-11-19",
+	"publish_time": 1795075200,
+	"fen": "4r1k1/1pp1qp1p/p5p1/8/P1PP4/Nn1B4/1P3PPQ/3R1K1R b - - 0 20",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"KingsBishop\"]\n[Result \"0-1\"]\n[FEN \"4r1k1/1pp1qp1p/p5p1/8/P1PP4/Nn1B4/1P3PPQ/3R1K1R b - - 0 20\"]\n\n20... Qe1+ 21. Rxe1 Nd2+ 22. Kg1 Rxe1+ 23. Bf1 Rxf1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/1pp1qp1p/p5p1/8/P1PP4/Nn1B4/1P3PPQ/3R1K1R%20b%20-%20-%200%2020&size=2"
+}
