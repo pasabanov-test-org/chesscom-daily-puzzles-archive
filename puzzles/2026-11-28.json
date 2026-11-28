@@ -1,0 +1,8 @@
+{
+	"title": "Undercover Smother",
+	"url": "https://www.chess.com/daily/2026-11-28",
+	"publish_time": 1795852800,
+	"fen": "6k1/ppb2p1p/1qp4Q/3p2p1/P7/1PN3nP/1BP3PK/4R3 b - - 0 27",
+	"pgn": "[White \"Daily Puzzle Collaboration\"]\n[Black \"EnPassantFork / chesstiger787\"]\n[Result \"0-1\"]\n[FEN \"6k1/ppb2p1p/1qp4Q/3p2p1/P7/1PN3nP/1BP3PK/4R3 b - - 0 27\"]\n\n27... Ne4+ 28. Kh1 Nf2+ 29. Kg1 Nxh3+ 30. Kh1 Qg1+ 31. Rxg1 Nf2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/ppb2p1p/1qp4Q/3p2p1/P7/1PN3nP/1BP3PK/4R3%20b%20-%20-%200%2027&size=2"
+}
